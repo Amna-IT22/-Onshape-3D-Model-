@@ -8,4 +8,4 @@ This repository contains the mechanical model design, including the 3D printable
  Units: Millimeters (mm)
 🔗 Access the Project
 You can view the original design and all its features by clicking the link below:
-👉 [View My Onshape [Design]https://cad.onshape.com/documents/b3cec78feeb3a85365bb9443/w/6340c99be70aa887dc371e52/e/62db33eabb398196ea7abf37?renderMode=0&uiState=6a5dcce1355269141ba01105](https://cad.onshape.com/documents/b3cec78feeb3a85365bb9443/w/6340c99be70aa887dc371e52/e/62db33eabb398196ea7abf37)
+👉 [View My Onshape] [Design]https://cad.onshape.com/documents/b3cec78feeb3a85365bb9443/w/6340c99be70aa887dc371e52/e/62db33eabb398196ea7abf37?renderMode=0&uiState=6a5dcce1355269141ba01105](https://cad.onshape.com/documents/b3cec78feeb3a85365bb9443/w/6340c99be70aa887dc371e52/e/62db33eabb398196ea7abf37)
