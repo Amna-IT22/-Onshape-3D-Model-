@@ -1,2 +1,11 @@
-# -Onshape-3D-Model-
-⁠3D design project of a paw logo created in Onshape.⁠
+3D Mechanical Design Project
+Welcome to my 3D mechanical design repository! This project showcases a custom design created using Onshape.
+📂 Project Overview
+This repository contains the mechanical model design, including the 3D printable files and the original workspace link.
+🛠️ Technical Details
+ Software Used: Onshape
+ Format: STL (ready for 3D printing)
+ Units: Millimeters (mm)
+🔗 Access the Project
+You can view the original design and all its features by clicking the link below:
+👉 [View My Onshape Design](
